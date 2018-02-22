@@ -1,0 +1,11 @@
+{
+  "name": "Alpha-V5",
+  "version": "5.1.0",
+  "description": "Raid Bot/Moderator",
+  "main": "bot.js",
+  "author": "Arun-Sherlock",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
